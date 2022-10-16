@@ -14,10 +14,10 @@ This app is a practice project of the [Android Basics in Compose] course from Go
 Environment
 
 - Kotlin 1.7.0
-- Android Studio Chipmunk 2021.2.1
+- Android Studio Dolphin 2021.3.1
 - Compose 1.2.0
-- Gradle Plugin 7.2.1
+- Gradle Plugin 7.3.0
 
 ----
 
-updated: 2022-08-13
+updated: 2022-10-16
