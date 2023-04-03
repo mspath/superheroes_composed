@@ -22,7 +22,7 @@ Environment
 
 ```
 language: kotlin
-repo: superheroescomposed
+repo: superheroes_composed
 status: archived
-updated: 2022-12-03
+updated: 2023-04-03
 ```
