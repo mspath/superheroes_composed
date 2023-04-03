@@ -13,10 +13,10 @@ This app is a practice project of the [Android Basics in Compose] course from Go
 
 Environment
 
-- Kotlin 1.7.20
-- Android Studio Dolphin 2021.3.1
-- Compose 1.3.1
-- Gradle Plugin 7.3.1
+- Kotlin 1.8.0
+- Android Studio Electric Eel 2022.1.1
+- Compose BOM 2023.01.00
+- Gradle Plugin 7.4.2
 
 ---
 
